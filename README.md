@@ -1,4 +1,4 @@
-# Kali Linux Lab Environment Setup
+# Kali Linux Lab Setup
 
 ## Hardware
 - MacBook with Apple Silicon (M1)
@@ -44,7 +44,7 @@ I initialy attempted to use VirtualBox, but ran into compatibility and graphical
 
 ## UTM Network
 
-For networking, I initially looked at the lab instructions, which were written for VirtualBox and required a separate NAT Network.
+For networking, I initially looked at the instructions, which were specific to VirtualBox and required a separate NAT Network.
 UTM does not use the same VirtualBox NAT Network configuration.
 
 Instead, I used:
@@ -91,7 +91,7 @@ To confirm that Google loads and that I can perform a search
 
 ### 6. Test GitHub access through Firefox
 
-Then search for github through the google page opened:
+Search for github through the google page opened:
 ```text
 https://github.com
 ```
