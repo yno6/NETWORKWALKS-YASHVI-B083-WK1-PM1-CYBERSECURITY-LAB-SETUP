@@ -16,6 +16,12 @@
   <img src="https://img.shields.io/badge/NetworkWalks-404040?style=flat-square&labelColor=C00000" />
 </p>
 
+----
+
+<img width="1440" height="900" alt="Screenshot 2026-09-12 at 2 32 14 AM" src="https://github.com/user-attachments/assets/4b4078be-708d-4939-9283-61101fea1384" />
+
+----
+
 ## Hardware
 - MacBook with Apple Silicon (M1)
 
