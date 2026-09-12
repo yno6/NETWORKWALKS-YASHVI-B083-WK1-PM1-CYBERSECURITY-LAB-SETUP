@@ -1,4 +1,20 @@
+<div>
+  
 # Kali Linux Lab Setup
+
+**A beginner cybersecurity lab environment built with Kali Linux ARM64 on an Apple Silicon Mac using UTM, covering VM setup, networking, and connectivity testing.**
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-v2026.2-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skill-Linux-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Skill-Virtualization-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/GitHub-404040?style=flat-square&labelColor=0070C0&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/UTM-404040?style=flat-square&labelColor=FF6B00&logo=utm&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetworkWalks-404040?style=flat-square&labelColor=C00000" />
+</p>
 
 ## Hardware
 - MacBook with Apple Silicon (M1)
@@ -60,7 +76,7 @@ This seems to provides NAT-style Internet access for the Kali VM.
 
 ---
 
-## 🔎 Setup Verification & Testing
+## Setup Verification & Testing
 
 ### 1. Check network interfaces
 
@@ -105,7 +121,7 @@ To confirm that GitHub loads and that a search can be performed
 
 ---
 
-## ✅ Final Network Verification
+## Final Network Verification Checklist
 
 | Test | Result |
 |---|---|
