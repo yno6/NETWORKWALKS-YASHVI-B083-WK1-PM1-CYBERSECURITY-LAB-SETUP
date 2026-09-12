@@ -60,6 +60,8 @@ I initialy attempted to use VirtualBox, but ran into compatibility and graphical
 https://github.com/user-attachments/assets/dd700ce7-5c16-4c79-aef2-83e9cd157bc7
 
 ### Select according to preferences, finish all the installation steps as needed, and Kali Linux will be ready to boot!
+### Once the Kali Linux installation is complete, remove the Kali Linux ISO image from the CD/DVD option on the main UTM page while the Kali Linux VM (the one just installed) is selected.
+
 ---
 
 # Network Configuration
