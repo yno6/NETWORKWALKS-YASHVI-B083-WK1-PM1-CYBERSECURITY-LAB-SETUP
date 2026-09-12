@@ -38,11 +38,14 @@ I initialy attempted to use VirtualBox, but ran into compatibility and graphical
 10. Completed the Kali installation
 11. Booted into the Kali XFCE desktop
 
+--- 
+# step-by-step (UTM Kali Linux Installation)
+
+https://github.com/user-attachments/assets/dd700ce7-5c16-4c79-aef2-83e9cd157bc7
+
+### Select according to preferences, finish all the installation steps as needed, and Kali Linux will be ready to boot!
 ---
 
-<img width="1424" height="898" alt="utm-kali" src="https://github.com/user-attachments/assets/678ca60b-a2e9-409e-b48f-96d7db459dc9" />
-
----
 # Network Configuration
 
 ## UTM Network
