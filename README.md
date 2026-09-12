@@ -69,10 +69,7 @@ https://github.com/user-attachments/assets/dd700ce7-5c16-4c79-aef2-83e9cd157bc7
 For networking, I initially looked at the instructions, which were specific to VirtualBox and required a separate NAT Network.
 UTM does not use the same VirtualBox NAT Network configuration.
 
-Instead, I used:
-> **Network → Shared**
-
-This seems to provides NAT-style Internet access for the Kali VM.
+Instead, I used the default "Shared" Network option, which seems to provide NAT-style Internet access for the Kali VM.
 
 ---
 
