@@ -40,6 +40,9 @@ I initialy attempted to use VirtualBox, but ran into compatibility and graphical
 
 ---
 
+<img width="1424" height="898" alt="utm-kali" src="https://github.com/user-attachments/assets/678ca60b-a2e9-409e-b48f-96d7db459dc9" />
+
+---
 # Network Configuration
 
 ## UTM Network
