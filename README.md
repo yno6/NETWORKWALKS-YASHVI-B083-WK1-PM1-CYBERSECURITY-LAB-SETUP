@@ -82,10 +82,10 @@ ping -c 4 google.com
 
 ### 5. Test Internet access through Firefox
 
-Open Firefox and type:
+Open Firefox and search up:
 
 ```text
-https://www.google.com
+google.com
 ```
 To confirm that Google loads and that I can perform a search
 
@@ -93,10 +93,11 @@ To confirm that Google loads and that I can perform a search
 
 Search for github through the google page opened:
 ```text
-https://github.com
+github.com
 ```
 To confirm that GitHub loads and that a search can be performed
 
+---
 
 ## ✅ Final Network Verification
 
